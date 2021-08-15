@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31606.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareInliningBenchmarks", "CompareInliningBenchmarks.csproj", "{E964289E-86EE-4150-AE6C-9206A2FC9CCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E964289E-86EE-4150-AE6C-9206A2FC9CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E964289E-86EE-4150-AE6C-9206A2FC9CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E964289E-86EE-4150-AE6C-9206A2FC9CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E964289E-86EE-4150-AE6C-9206A2FC9CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CB0A6DE-4CA7-4AF5-A225-99DB67F1C9D4}
+	EndGlobalSection
+EndGlobal
